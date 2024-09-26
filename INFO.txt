@@ -1,0 +1,81 @@
+La primera página web
+
+La burbuja de las puntocom
+
+La primera red informática
+
+Primer navegador web
+
+El científico informático británico Tim Berners-Lee creó el primer servidor web y navegador web gráfico en 1990 mientras trabajaba en el 
+CERN, la Organización Europea para la Investigación Nuclear, en Suiza. Llamó a su nueva ventana a Internet "WorldWideWeb". Era una interfaz 
+gráfica fácil de usar creada para el ordenador NeXT. Por primera vez, los documentos de texto se enlazaron a través de una red pública — la 
+web tal como la conocemos.
+
+Un año más tarde, Berners-Lee le pidió a Nicola Pellow, estudiante de matemáticas del CERN, que escribiera Line Mode Browser, un programa 
+para terminales básicos de ordenador.
+
+El primer navegador de Internet ampliamente usando fue el NSCA Mosaic. El grupo de programación del Mosaic entonces desarrolló el primer 
+navegador de Internet comercial llamado Netscape Navigator, mas tarde renombrado Communicator, y finalmente llamado solamente Netscape. 
+Este navegador fue el mas utilizado entre la gente hasta que llegó Microsoft Internet Explorer entro en escena en 1999, con una amplia 
+distribución. En el 2002, una versión de Netscape de código libre fue creada con el nombre de Mozilla, el cual era el nombre interno del 
+antiguo navegador Netscape.
+
+https://www.mozilla.org/es-ES/firefox/browsers/browser-history/
+
+https://ordenadores-y-portatiles.com/internet-navegador/
+
+Primer motor de búsqueda web
+
+El primer buscador fue "Wandex", un índice (ahora desaparecido) realizado por la World Wide Web Wanderer, un robotAliweb, también apareció 
+en 1993 y todavía está en funcionamiento. El primer motor de búsqueda de texto completo fue WebCrawler, que apareció en 1994.
+
+A diferencia de sus predecesores, éste permitía a sus usuarios una búsqueda por palabras en cualquier página web, lo que llegó a ser un 
+estándar para la gran mayoría de los buscadores. WebCrawler fue también el primero darse a conocer ampliamente por el público. También 
+apareció en 1994 Lycos (que comenzó en la Carnegie Mellon University). desarrollado por Mattew Gray en el MIT, en 1993. Otro de los primeros 
+buscadores.
+
+https://www.platinoweb.com/tips/posicionamiento-en-buscadores/42-historia-de-los-primeros-buscadores-de-internet.html
+
+
+
+Primer teléfono con Internet
+
+En 1999 la operadora japonesa DoCoMo lanzó i-Mode, un conjunto de protocolos que permitían ver en la pantalla del móvil el contenido
+de páginas web especialmente adaptadas. En Europa esta tecnología se denominó Wireless Application Protocol o WAP y fue promovida 
+desde el WAP Fórum (más tarde conocido como Open Mobile Alliance).
+
+https://www.xataka.com/moviles/diez-momentos-clave-en-la-historia-de-la-telefonia-movil
+
+
+
+Comercialización de Internet
+
+Un teléfono móvil no es nada sin una red a la que conectarse y esa es la crucial labor a la que se dedican muchas empresas a las que 
+no siempre se les reconoce el mérito. La primera red telefónica del mundo fue puesta en servicio en 1979 por NTT en el área metropolitana 
+de Japón. Eso convierte a la compañía japonesa en la primera operadora móvil del mundo.
+
+A NTT le siguieron otras redes 1G en Dinamarca, Finlandia, Noruega y Suecia. La operadora Danesa NMT fue la primera en ofrecer roaming 
+internacional en países adyacentes. En Estados Unidos la primera operadora fue Ameritech, con sede en Chicago y que comenzó a operar en 
+1983 con móviles Motorola DynaTAC.
+
+https://www.xataka.com/moviles/diez-momentos-clave-en-la-historia-de-la-telefonia-movil
+
+
+
+Primeras páginas de comercio electrónico
+
+Primer correo electrónico
+
+El primer videojuego multijugador
+
+
+
+La primera publicidad
+
+Aunque el primer caso de publicidad online se remonta al 1978, cuando se envió el primer correo electrónico con un anuncio, no fue hasta la 
+década de los 90 cuando el formato digital realmente empezó a irrumpir con más fuerza. Surge entonces, más propiamente dicha, la publicidad en Internet.
+
+A principios de los 90 empezaron a aparecer los primeros banners, a los que siguió la publicidad por búsquedas en torno al año 2000. 
+Actualmente, la publicidad en Internet se está sofisticando cada vez más, como por ejemplo a través del retargeting, el branded content o el inbound marketing.
+
+https://www.esic.edu/rethink/marketing-y-comunicacion/publicidad-en-internet-pasado-presente-y-futuro

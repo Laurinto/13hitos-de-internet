@@ -3,7 +3,8 @@ h1 {color: #3a2c31; font-family: Calibri; text-align: center; text-justify: inte
 h2 {color: #3a2c31; font-family: Calibri; text-align: center; text-justify: inter-word; font-size: 30px;}
 h3 {color: #3a2c31; font-family: Calibri; font-size: 24px;}
 h4 {color: #3a2c31; font-family: Calibri; font-size: 22px;}
-summary{color: #3a2c31; font-family: Calibri; font-size: 24px}
+summary{color: #3a2c31; font-family: Calibri; font-size: 22px}
+a{color: #3a2c31; font-family: Calibri; text-align: center; text-justify: inter-word; font-size: 20px;}
 
 body{
   background-color: #7ecfb7;
@@ -95,4 +96,9 @@ footer{
 .sub{
   position: fixed;
   bottom: 20px; right: 20px; z-index: 3;
+}
+
+.cree{
+  display: flex;
+  justify-content: center;
 }
